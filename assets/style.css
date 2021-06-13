@@ -1,0 +1,66 @@
+html,
+body {
+    font-family: 'Work Sans', sans-serif;
+    margin: auto;
+}
+
+.title-section {
+    display: flex;
+    height: 100%;
+    align-items: flex-start;
+    justify-content: center;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    align-content: flex-start;
+    padding: 89px;
+}
+
+.title {
+    font-size: 48px;
+    color: #4d4d52;
+    line-height: 60px;
+    white-space: pre-line;
+    margin: 0px;
+    font-weight: bold;
+}
+
+.sub-title {
+    font-size: 18px;
+    color: #4d4d52;
+    line-height: 32px;
+    white-space: pre-line;
+    margin: 0px;
+    font-weight: 400;
+}
+
+.medium {
+    font-weight: 500;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.purple {
+    color: #685bc7;
+}
+
+.blue {
+    color: #62b5e5;
+}
+
+.green {
+    color: #8edd65;
+}
+
+.yellow {
+    color: #f9e547;
+}
+
+.orange {
+    color: #ff6a39;
+}
+
+.red {
+    color: #f4364c;
+}
